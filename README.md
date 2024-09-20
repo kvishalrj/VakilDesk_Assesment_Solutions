@@ -42,8 +42,8 @@ A solution to find a duplicate number in an array of n+1 integers where each int
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-link>
-   cd <repository-folder>
+   git clone https://github.com/kvishalrj/VakilDesk_Assesment_Solutions.git
+   cd VakilDesk_Assesment_Solutions
    ```
 
 2. **Install Dependencies**:
